@@ -1,0 +1,92 @@
+#div-1{
+    font-size: 50px;
+    color: grey;
+    text-align: center;
+}
+body{
+    background-color: white;
+}
+u{ color: red;
+  
+}
+#div-2{
+    text-align: center;
+    /* border: solid 1px; */
+    width: 600px;
+    padding-top: 0px;
+    margin-left: 370px;
+    
+    
+}
+#div-3{
+    width: 11cm;
+    height: 50px;
+   border-radius: 4px;
+  border: solid 2px grey;
+}
+#div-4{
+    width: 9cm;
+    height: 30px;
+   border-radius: 4px;
+  border: solid 2px grey;
+}
+#div-5{
+    width: 9cm;
+    height: 30px;
+   border-radius: 4px;
+  border: solid 2px grey;
+  padding-right: 40px;
+}
+#div-6{
+    width: 9cm;
+    height: 30px;
+   border-radius: 4px;
+  border: solid 2px grey;
+  padding-right: 100px;
+}
+#div-7{
+    width: 9cm;
+    height: 30px;
+   border-radius: 4px;
+  border: solid 2px grey;
+  padding-right: 40px;
+}
+#div-8{
+    width: 9cm;
+    height: 30px;
+   border-radius: 4px;
+  border: solid 2px grey;
+}#div-3{
+    width: 9cm;
+    height: 30px;
+   border-radius: 4px;
+  border: solid 2px grey;
+  padding-right: 35px;
+}#div-3{
+    width: 9cm;
+    height: 30px;
+   border-radius: 4px;
+  border: solid 2px grey;
+}
+select{
+    height: 30px;
+}
+label{ font-size: 25px;}
+#div-9{ width: 30px;}
+#select{ width: 400px;
+ height: 35px; border: solid 2px grey; border-radius: 4px;}
+ #div-10{ padding-right: 75px;}
+ @media screen and (max-width:491px) { html{ width: 90%; height: 90%; }
+body{
+     font-size: calc(1rem + 1rem); text-align: center;
+ } 
+}
+button{ background-color: grey;
+ border: solid 2px grey; 
+border-radius: 4px;
+margin-left: 500px;
+padding-left: 100px;
+padding-right: 100px;
+font-size: 30px;}
+body{background-image: url(./sebastian-klein-pAlkR1B0Fck-unsplash.jpg); background-size: cover;}
+form{background-image: url(./sebastian-klein-pAlkR1B0Fck-unsplash.jpg); background-size: cover;}

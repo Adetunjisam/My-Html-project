@@ -1,0 +1,67 @@
+#div-1{
+    font-size: 15px;
+    color:silver;
+    text-align: center;
+    font-size: large;
+    font-weight: 500px;
+    font-display: 200px;
+}
+body{ 
+    background-image:url(c:\Users\HP\Desktop\pexels-arthur-brognoli-2260959.jpg) ;
+    background-color: grey;
+}
+#div-2{
+    text-align: center;
+    width: 600px;
+    padding-top: 0px;
+    margin-left: 370px;
+}
+#div-3{
+    width:7cm;
+    height:20px;
+    border-radius:3px;
+    border: solid 2px black;
+    font-style: italic;
+}
+#div-4{
+    width: 7cm;
+    height: 20px;
+    border-radius: 3px;
+    border: solid 2px black;
+    font-style: italic;
+}
+#div-5{
+    width: 7cm;
+    height: 20px;
+    border-radius: 3px;
+    border: solid 2px black;
+    font-style: italic;
+}
+#div-6{
+    width: 7cm;
+    height: 20px;
+    border-radius: 3px;
+    border: solid 2px black;
+    font-style: italic;
+}
+#div-7{
+    width: 7cm;
+    height: 20px;
+    border-radius: 3px;
+    border: solid 2px black;
+    font-style: italic;
+}
+#div-8{
+    width: 7cm;
+    height: 20px;
+    border-radius: 3px;
+    border: solid 2px black;
+    font-style: italic;
+}
+#label{
+    border-radius: 3px;
+    border: solid 2px black;
+    width: 7cm;
+    height: 20px;
+    font-style: italic;
+}
